@@ -1,0 +1,5 @@
+{
+  "tabWidth": 4,  // ou 4, conforme sua preferência
+  "useTabs": false,
+  "printWidth": 120       // Aumenta a largura máxima das linhas antes da quebra
+}
